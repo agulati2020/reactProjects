@@ -1,0 +1,10 @@
+input {
+  width: 100%;
+}
+.myRow{
+  margin: 10px 5px;
+}
+.myBtn{
+  min-width: 80px;
+  font-size: 24px;
+}
